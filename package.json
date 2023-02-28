@@ -1,0 +1,16 @@
+{
+  "name": "@okens-studio/graphql-documentation",
+  "version": "1.0.0",
+  "description": "Automatic documentation for the Graphql SDK for tokens Studio",
+  "main": "index.js",
+  "private":true,
+  "scripts": {
+    "dev": "spectaql -d -c  spectaql.yml",
+    "build": "spectaql -c spectaql.yml"
+  },
+  "author": "andrew@hyma.io",
+  "license": "MIT",
+  "dependencies": {
+    "spectaql": "^2.0.4"
+  }
+}
