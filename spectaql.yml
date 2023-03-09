@@ -415,6 +415,8 @@ info:
     # Can be a Title (for the Nav panel) + description (for the Content panel)
     - title: Javascript SDK
       url: https://github.com/tokens-studio/token-studio-sdk
+    - title: Interactive GraphQL editor
+      url: https://tokens-studio.github.io/tokens-studio-graphiql/
     # Can be a Title (for the Nav panel) + file that gets loaded (for the Content panel)
     # - title: Content from file that supports markdown
     #   file: ./examples/data/intro-items-markdown.md
